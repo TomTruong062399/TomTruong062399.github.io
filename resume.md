@@ -1,9 +1,9 @@
-#<center>**Tom Truong**</center>
+# <center> **Tom Truong** </center>
 <center>Email: tomtruong03@yahoo.com • Phone: (206) 334-8272</center>
 <center>https://github.com/TomTruong062399</center>
 
 
-##**EDUCATION**
+## **EDUCATION**
 * **[University of Washington](https://www.washington.edu/)**, Seattle, WA
 **Expected June 2020**
   - Bachelor of Arts in Geography
@@ -16,7 +16,7 @@
   - Associate of Arts Degree
 
 
-##**WORK HISTORY**
+## **WORK HISTORY**
 * #### **Data Entry & Administrative Intern**
 **_West Seattle Helpline_**, Seattle, WA
 **September to December 2019**
