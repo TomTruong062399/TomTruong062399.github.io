@@ -450,8 +450,9 @@ mark,
 }
 
 .list-inline-item {
-  display: inline-block;
+  position: relative;
 }
+
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
 }
@@ -10116,6 +10117,7 @@ section.resume-section .resume-section-content {
 img {
   width: 300px;
   height: 200px;
+  border: 2px solid #343A40;
 }
 
 .lab {
@@ -10129,4 +10131,12 @@ img {
 
 .wrapper {
   display: flex;
+}
+
+.dev-icons {
+  text-align: center;
+}
+
+.fa-ul mb-0 {
+  spacing: 10px;
 }
